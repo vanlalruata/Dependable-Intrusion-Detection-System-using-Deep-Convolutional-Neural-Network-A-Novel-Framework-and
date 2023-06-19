@@ -7,6 +7,9 @@ The paper is underreview in Journal. Code and experiments will be made avialble 
 # Publisher
 Elsevier
 
+# Journal Name
+Telematics and Informatics Reports
+
 # Authors
 Vanlalruata Hnamte and Jamal Hussain
 
