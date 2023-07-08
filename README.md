@@ -25,7 +25,7 @@ Vanlalruata Hnamte and Jamal Hussain
 6th Jul 2023
 
 # DoI
-[https://doi.org/10.1016/j.teler.2023.100077][10.1016/j.teler.2023.100077]
+https://doi.org/10.1016/j.teler.2023.100077
 
 # ResearchGate Link
 https://www.researchgate.net/publication/372138851_Dependable_Intrusion_Detection_System_using_Deep_Convolutional_Neural_Network_A_Novel_Framework_and_Performance_Evaluation_Approach
